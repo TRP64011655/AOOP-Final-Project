@@ -7,6 +7,10 @@
  *
  * @author fuku
  */
+
+//add your own package in order to run successfully
+
+
 public class EventCreator extends javax.swing.JFrame {
 
     /**
