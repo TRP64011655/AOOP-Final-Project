@@ -7,6 +7,10 @@
  *
  * @author fuku
  */
+
+//write ur own package to run
+
+
 public class menu extends javax.swing.JFrame {
 
     /**
